@@ -1,0 +1,1 @@
+Demonstrated expertise in Customer Base Auditing by processing large transaction datasets in Excel. Skilled in data triangulation and tabulation to derive key performance indicators (KPIs) such as customer lifetime value and purchase frequency. Proficient in creating advanced visualizations (histograms, Pareto charts) to support data-driven business decisions
